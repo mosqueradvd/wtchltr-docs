@@ -1,0 +1,33 @@
+{
+  "name": "wtchltr-docs",
+  "version": "1.0.0",
+  "description": "See all the development and behind the scenes of Wtchltr's development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosqueradvd/wtchltr-docs.git"
+  },
+  "keywords": [
+    "Next.js",
+    "YouTube",
+    "API",
+    "Nextra",
+    "React.js"
+  ],
+  "author": "@mosqueradvd <David Mosquera>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosqueradvd/wtchltr-docs/issues"
+  },
+  "homepage": "https://github.com/mosqueradvd/wtchltr-docs#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "nextra": "^0.3.1",
+    "nextra-theme-docs": "^0.3.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
